@@ -1,0 +1,31 @@
+body
+{
+background-image:url("https://i.pinimg.com/originals/63/ca/93/63ca933ff3464321cad8b0bd3877eda7.jpg");
+background-color:pink; 
+}  
+h1{ 
+color:white;
+font-size:50px;
+}
+.c1{
+font-size:20px;
+}
+.c2{
+font-family:aerial,helvetica,sans-serif;
+background-image:url("https://getwallpapers.com/wallpaper/full/1/9/b/647901.jpg");
+color:white;
+text-transform:lower case;
+font-size:25px;
+border:10px solid black;
+border-radius:50px;
+padding:10px;
+margin:50px 80px 50px 80px;
+}
+.c3{
+background-image:url("https://earthsky.org/upl/2014/08/iss006e40544-Plough-Big-Dipper-from-ISS-e1408211926229.jpg");
+}
+.c4{
+padding:25px;
+color:#1100FF;
+font-size:50px;
+}
